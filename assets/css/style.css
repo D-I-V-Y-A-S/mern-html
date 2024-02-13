@@ -1,0 +1,49 @@
+h1
+{
+        color: grey !important;
+}
+body{
+    background-color: white;
+    color: red;
+}
+.one
+{
+    color: red;
+}
+#one-id
+{
+    color: greenyellow;
+}
+a
+{
+    color: red;
+}
+a:hover
+{
+    color: green;
+}
+a:visited
+{
+color: black;
+}
+div
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+    color:blue;
+    line-height:5px;
+  text-align: justify;
+}
+ul
+{
+    list-style-type: none ;
+    border: dotted 20px blue;
+    padding:50px;
+    text-align: center;
+    margin:50px;
+}
+img
+{
+    opacity:0.5;
+}
