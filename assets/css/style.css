@@ -2,13 +2,18 @@ h1
 {
         color: grey !important;
 }
-body{
-    background-color: white;
-    color: red;
+body
+{
+    background-color:cyan;
+}
+p
+{
+
+position:relative;
 }
 .one
 {
-    color: red;
+    color: white;
 }
 #one-id
 {
@@ -35,15 +40,11 @@ div
     line-height:5px;
   text-align: justify;
 }
-ul
+td,th
 {
-    list-style-type: none ;
-    border: dotted 20px blue;
-    padding:50px;
-    text-align: center;
-    margin:50px;
+border:solid 2px blue;
 }
-img
+table
 {
-    opacity:0.5;
+    border-collapse:collapse;
 }
